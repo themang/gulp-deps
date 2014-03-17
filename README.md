@@ -1,6 +1,7 @@
 gulp-deps
 =========
 [![Build Status](https://drone.io/github.com/themang/gulp-deps/status.png)](https://drone.io/github.com/themang/gulp-deps/latest)
+
 Get a stream of a module's dependencies
 
 
