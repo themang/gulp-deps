@@ -1,0 +1,40 @@
+{
+  "name": "gulp-deps",
+  "version": "0.0.0",
+  "description": "Get the complete list of a files dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/themang/gulp-deps.git"
+  },
+  "keywords": [
+    "deps",
+    "gulp",
+    "watch",
+    "deps",
+    "dependencies"
+  ],
+  "author": "ashaffer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themang/gulp-deps/issues"
+  },
+  "homepage": "https://github.com/themang/gulp-deps",
+  "devDependencies": {
+    "mocha": "~1.18.0",
+    "istanbul": "~0.2.6",
+    "gulp": "~3.5.6",
+    "chai": "~1.9.0"
+  },
+  "dependencies": {
+    "module-deps": "~1.7.1",
+    "browser-resolve": "~1.2.2",
+    "minimatch": "~0.2.14",
+    "lodash": "~2.4.1",
+    "vinyl": "~0.2.3",
+    "event-stream": "~3.1.0"
+  }
+}
